@@ -1,0 +1,8 @@
+### Sign in
+POST http://localhost:3000/auth/login
+Content-Type: application/json
+
+{
+  "username": "XDDDDDDDDD5",
+  "password": "XDDDDDDDDD56"
+}
